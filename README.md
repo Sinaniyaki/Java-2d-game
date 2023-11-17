@@ -5,9 +5,6 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Dead City: Chronicles is a 2D survival game set in a post-apocalyptic world. I took some elements from the walking dead tv show like the soundtrack and name of the character. you navigate through the desolate cityscape, facing challenges and finding keys.
