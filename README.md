@@ -22,14 +22,14 @@ Dead City: Chronicles is a 2D survival game set in a post-apocalyptic world. I t
 Before running Dead City: Chronicles, ensure you have [Maven](https://maven.apache.org/) installed on your system. Follow these steps to set up the game:
 
 1. Open your terminal or command prompt.
-2. Navigate to the `dead-city` directory where you've cloned the repository:
-   ```shell
-   cd dead-city```
+2. Navigate to the `dead-city` directory where you've cloned the repository
    
 Run the following command to clean the project and install dependencies:
-
-```mvn clean install```
+```
+mvn clean install
+```
 
 Once the build is complete and successful, you can run the game using:
-
-```mvn exec:java -D"exec.mainClass=com.group22.Main"```
+```
+mvn exec:java -D"exec.mainClass=com.group22.Main"
+```
